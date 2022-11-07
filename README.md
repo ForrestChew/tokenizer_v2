@@ -1,5 +1,7 @@
 # Tokenizer Version 2
 
+[Video comparing Tokenizer_v1 and Tokenizer_v2](https://www.youtube.com/watch?v=IZsiJJkQfkw&t=32s)
+
 ### Summary
 
 Tokenizer_v2 is superior to [Tokenizer_v1](https://github.com/ForrestChew/Tokenizer) in practically every way.
