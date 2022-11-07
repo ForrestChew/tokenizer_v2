@@ -1,6 +1,6 @@
 # Tokenizer Version 2
 
-[Video comparing Tokenizer_v1 and Tokenizer_v2](https://www.youtube.com/watch?v=IZsiJJkQfkw&t=32s)
+[Video comparing Tokenizer_v1 and Tokenizer_v2](https://www.youtube.com/watch?v=IZsiJJkQfkw)
 
 ### Summary
 
