@@ -5,7 +5,7 @@
 ### Summary
 
 Tokenizer_v2 is superior to [Tokenizer_v1](https://github.com/ForrestChew/Tokenizer) in practically every way.
-There is imporoved error handling, the GUI is responsive, the code is less convoluted, and it's created without the use
+There is imporoved error handling, the GUI is responsive, and it's created without the use
 of [QtDesigner.](https://doc.qt.io/qt-6/qtdesigner-manual.html) Although a powerful tool, QtDesigner was initially
 used as a crutch to expedite the time it took to complete the project, as Tokenizer_v1 was originaly created for a hackathon.
 
