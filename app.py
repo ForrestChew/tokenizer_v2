@@ -27,17 +27,17 @@ class Tokenizer(qtw.QWidget, ui_main_components.UiComponents):
         qr.moveCenter(cp)
         self.move(qr.topLeft())
 
-    # def closeEvent(self, event):
-    #     reply = qtw.QMessageBox.question(
-    #         self,
-    #         "Message",
-    #         "Are you sure you want to quit?",
-    #         qtw.QMessageBox.Yes | qtw.QMessageBox.No,
-    #     )
-    #     if reply == qtw.QMessageBox.Yes:
-    #         event.accept()
-    #     else:
-    #         event.ignore()
+    def closeEvent(self, event):
+        reply = qtw.QMessageBox.question(
+            self,
+            "Message",
+            "Are you sure you want to quit?",
+            qtw.QMessageBox.Yes | qtw.QMessageBox.No,
+        )
+        if reply == qtw.QMessageBox.Yes:
+            event.accept()
+        else:
+            event.ignore()
 
 
 def main():
